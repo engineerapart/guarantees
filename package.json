@@ -1,0 +1,27 @@
+{
+  "name": "guarantees",
+  "version": "0.1.0",
+  "description": "Generate automated tests using decorators and comments that guarantee function behavior",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerapart/guarantees.git"
+  },
+  "keywords": [
+    "automated",
+    "tests",
+    "guarantee",
+    "codegen",
+    "code",
+    "generation"
+  ],
+  "author": "Patrick Sears <patrick@engineerapart.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/engineerapart/guarantees/issues"
+  },
+  "homepage": "https://github.com/engineerapart/guarantees#readme"
+}
